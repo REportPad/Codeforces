@@ -24,7 +24,7 @@ int main() {
 		}
 		else{
 			extra0 += 1;
-			extra0max = max(extra0max, extra0);	//if (extra0 > extra0max)	extra0max = extra0;
+			extra0max = max(extra0max, extra0);
 		}
 	}
 
